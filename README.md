@@ -1,6 +1,6 @@
 # MiniVSFS — File System Builder and Adder
 
-This project implements a **miniature virtual file system (MiniVSFS)** consisting of two C programs:
+A compact C-based virtual file system project featuring two tools, 'mkfs_builder' for creating file system images and 'mkfs_adder' for adding files into them. Designed for demonstrating file system structures, CRC32 integrity and inode management. This project implements a **miniature virtual file system (MiniVSFS)** consisting of two C programs:
 - **`mkfs_builder.c`** — creates a blank file system image.
 - **`mkfs_adder.c`** — adds a file into an existing file system image.
 
