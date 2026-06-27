@@ -37,6 +37,11 @@ gcc mkfs_adder.c -o mkfs_adder -lm
 ---
 
 ## Usage Instructions
+<img src="./assets/images/hr_py_basic.png" alt="Python (Basic) Certificate" width="100"/>
+
+---
+
+## Usage Instructions
 
 ### 1. Create a File System Image
 
