@@ -18,6 +18,11 @@ Both programs are written in C and are intended to be compiled and executed on *
 
 ---
 
+## Project Diagram
+<img src="./MiniVSFS-File-System-Builder-and-Adder-Diagram.png" alt="MiniVSFS File System Builder and Adder Diagram"/>
+
+---
+
 ## Compilation Commands
 
 To compile both programs in Ubuntu, we use the following commands in the terminal:
@@ -33,11 +38,6 @@ To use the math library (`-lm`), we use these commands instead:
 gcc mkfs_builder.c -o mkfs_builder -lm
 gcc mkfs_adder.c -o mkfs_adder -lm
 ```
-
----
-
-## Project Diagram
-<img src="./MiniVSFS-File-System-Builder-and-Adder-Diagram.png" alt="MiniVSFS File System Builder and Adder Diagram"/>
 
 ---
 
