@@ -37,7 +37,7 @@ gcc mkfs_adder.c -o mkfs_adder -lm
 ---
 
 ## Usage Instructions
-<img src="./MiniVSFS-File-System-Builder-and-Adder-Diagram.png" alt="MiniVSFS File System Builder and Adder Diagram" width="100"/>
+<img src="./MiniVSFS-File-System-Builder-and-Adder-Diagram.png" alt="MiniVSFS File System Builder and Adder Diagram"/>
 
 ---
 
